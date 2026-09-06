@@ -1,5 +1,8 @@
 # C-Programs
-this is my personal details\n
-all this are my c programs\n
+this is my personal details
+
+all this are my c programs
+
+basics to advance c programs
 
 
