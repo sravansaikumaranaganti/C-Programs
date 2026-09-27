@@ -11,5 +11,5 @@ if(n%2 == 0){
 else{
     cout << "odd number";
 }
-
-}
+return 0;
+};
