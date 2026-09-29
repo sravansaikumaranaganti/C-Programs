@@ -2,14 +2,14 @@
 using namespace std;
 int main(){
 int n;
-cout << "enter the number";
+cout << "Enter the number";
 cin >> n;
 
 if(n%2 == 0){
-    cout <<"even number:";
+    cout <<"Even number:";
     }
 else{
-    cout << "odd number";
+    cout << "Odd number";
 }
 return 0;
 };
