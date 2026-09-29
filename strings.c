@@ -4,4 +4,4 @@ int main(){
     str[0] = 'M';
     printf("%c",str[2]);
  return 0;
-}
+};
