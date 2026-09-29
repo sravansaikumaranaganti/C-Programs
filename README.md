@@ -3,7 +3,7 @@ this is my personal details.
 
 all this are my c programs.
 
-basics to advance c programs
+basics to advance c programs.
 
 if-else concept also present in the program
 
