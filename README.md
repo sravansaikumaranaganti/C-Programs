@@ -1,9 +1,11 @@
-#C-Programs <stdio.h>
+#C-Programs <iostream>
 
-this is my personal details.
+this is my personal details .
 
-conditional statement are present.
+conditional statement are present .
 
-ALL C PROGRAMS.
+ALL C++ PROGRAMS.
+
+for and while loops.c
 
 
