@@ -1,4 +1,4 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 int main(){
     int n1;
@@ -17,9 +17,9 @@ int main(){
      case '/':
     cout  << n1 / n2;
     default :
-    cout  << "invalid";
+    cout  << "Invalid";
     return 0;
 
 
-    }
-}
+    };
+};
