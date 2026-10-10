@@ -1,8 +1,8 @@
 # C-Programs <iostream>
 
-this is my personal details .
+this is my personal details .....
 
-conditional statement are present .
+conditional statement are present ..
 
 ALL C++ PROGRAMS...
 
