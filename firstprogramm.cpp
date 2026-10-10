@@ -1,4 +1,4 @@
-#include <iostream>
+#include<iostream>
 using namespace std;
 
 int main() {
@@ -8,7 +8,7 @@ int main() {
     cout << x + y << endl;   // 7
     cout << x - y << endl;   // 3
     cout << x * y << endl;   // 10
-    cout << x / y << endl;   // 2.5 (since float division)
+    cout << x / y << endl;   // 2.5 (since float division);
     
     return 0;
-};
+}
