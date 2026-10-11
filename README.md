@@ -6,6 +6,6 @@ conditional statement are present ..
 
 ALL C++ PROGRAMS...
 
-for and while loops.c
+for and while loops.c ...
 
 
