@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include<stdio.h>
 int main(){
    int i = 5;
    int *ptr = &i;
@@ -7,4 +7,4 @@ int main(){
    printf("%d\n" ,**pptr);
 
 return 0;
-}
+};
