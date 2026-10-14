@@ -1,7 +1,7 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 
-int main() {
+int main(){
     float x = 5;
     float y = 2;
 
@@ -11,4 +11,4 @@ int main() {
     cout << x / y << endl;   // 2.5 (since float division);
     
     return 0;
-}
+};
