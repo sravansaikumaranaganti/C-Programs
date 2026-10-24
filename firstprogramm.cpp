@@ -2,13 +2,13 @@
 using namespace std;
 
 int main(){
-    float x = 5;
+    float x = 2;
     float y = 2;
 
-    cout << x + y << endl;   // 7
-    cout << x - y << endl;   // 3
-    cout << x * y << endl;   // 10
-    cout << x / y << endl;   // 2.5 (since float division);
+    cout << x + y << endl;   // 4
+    cout << x - y << endl;   // 0
+    cout << x * y << endl;   // 4
+    cout << x / y << endl;   // 1 (since float division);
     
     return 0;
 };
