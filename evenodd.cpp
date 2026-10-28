@@ -10,6 +10,6 @@ if(n%2 == 0){
     }
 else{
     cout << "Odd number";
-}
-return 0;
 };
+return 0;
+}
