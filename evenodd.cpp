@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;
+using namespace std;;
 int main(){
 int n;
 cout << "Enter the number";
@@ -12,4 +12,4 @@ else{
     cout << "Odd number";
 };
 return 0;
-}
+};;
