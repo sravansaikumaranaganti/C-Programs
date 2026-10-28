@@ -7,4 +7,4 @@ int main(){
    printf("%d\n" ,**pptr);
 
 return 0;
-};
+}
