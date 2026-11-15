@@ -10,16 +10,21 @@ int main(){
     switch(op){
     case '+':
     cout  << n1 + n2;
+        break;
      case '-':
     cout  << n1 - n2;
+        break;
     case '*':
     cout  << n1 * n2;
+        break;
      case '/':
     cout  << n1 / n2;
+        break;
     default :
     cout  << "Invalid";
+        break;
     return 0;
 
 
     }
-}
+};
