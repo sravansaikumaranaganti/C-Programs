@@ -8,5 +8,5 @@ int main(){
     b = temp;
 printf("After swaping the numbers a=%d,b=%d\n"a,b);
 return 0;
-}
+};
     
