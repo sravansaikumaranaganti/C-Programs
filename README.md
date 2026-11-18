@@ -1,6 +1,6 @@
 # C-Programs <stdio.h>
 
-this is my personal details 
+this is my personal details .
 
 conditional statement are present
 
