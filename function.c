@@ -8,4 +8,4 @@ int main(){
     printf(" hello my dear sravan\n ");
 
 return 0;
-}
+};
