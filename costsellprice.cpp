@@ -1,4 +1,4 @@
-#include <iostream>
+#include<iostream>
 int main(){
   int cp,sp;
 printf("enter the cost price:");
