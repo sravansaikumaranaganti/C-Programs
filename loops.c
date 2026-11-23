@@ -1,4 +1,4 @@
-#include <studio.h>
+#include<studio.h>
 int main()
 {
 
@@ -9,5 +9,6 @@ printf("10\n");
 }
 return 0;
 };
+
 
 
